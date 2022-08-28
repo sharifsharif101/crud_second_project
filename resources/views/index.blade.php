@@ -234,6 +234,8 @@
                      $('#edit_employee_btn').text('Update emplyee');
                      $("#edit_employee_form")[0].reset();
                      $("#editEmployeeModal").modal('hide');
+   /*                   $("#editEmployeeModal").modal('hide');
+                     $("#editEmployeeModal").modal('hide'); */
 
                 }
 
