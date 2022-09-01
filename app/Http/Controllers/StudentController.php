@@ -6,7 +6,7 @@ use App\Models\Student;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
 use Laravel\Ui\Presets\React;
-
+ 
 class StudentController extends Controller
 {
 public function index(){
